@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+  background-image: url(https://cdn.nextgov.com/media/img/upload/2020/10/19/NGspace20201019/860x394.jpg);
+}
+.header{
+  /* background-color: cadetblue; */
+  height: 150px;
+  align-items: center;
+  display:flex;
+  justify-content: center;
+}
+
